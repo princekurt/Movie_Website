@@ -1,3 +1,6 @@
+# Created by Kurt Anderson
+# Last Updated: 5/10/2017
+
 import webbrowser
 
 class Movie():

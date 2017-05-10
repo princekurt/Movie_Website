@@ -1,3 +1,7 @@
+# Created by Udactiy.com
+# Edited by Kurt Anderson
+# Last Updated: 5/10/2017
+
 import webbrowser
 import os
 import re
